@@ -1,0 +1,1 @@
+MsgBox "File Password: admin@90", vbInformation, "PDF Password"
